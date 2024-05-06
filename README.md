@@ -9,3 +9,5 @@ Ulam-based algorithms for transfer operator computations
 <li>Computation of absorption/hitting times
 <li>Computation of topological entropy
 </ul>
+
+<a href=https://web.maths.unsw.edu.au/~froyland/banfftutorial/Banff-Tutorial.pdf>Accompanying presentation slides</a>
