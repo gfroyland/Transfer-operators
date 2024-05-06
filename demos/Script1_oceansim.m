@@ -1,5 +1,5 @@
 %%show simulation
-load buoytransitmatrix_vSebille_England_F(2012).mat
+load ../src/buoytransitmatrix_vSebille_England_F(2012).mat
 
 unif=ones(33673,1);
 

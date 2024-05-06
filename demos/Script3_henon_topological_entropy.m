@@ -2,6 +2,8 @@
 % topological entropy of the Henon map
 % Author: Oliver Junge
 
+addpath ../src
+
 % Henon map
 a = 1.4; b = 0.3;
 f = @(x) [1 - a*x(:,1).^2 + b*x(:,2) x(:,1)];   

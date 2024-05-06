@@ -18,6 +18,7 @@
 %AND SKIP AHEAD TO BEGIN AT THE ``COMPUTE EIGENVECTORS...'' CODE BLOCK. 
 
 addpath(genpath('D:/gaio/GAIO-3.0/GAIO-3.0'))
+addpath ../src
 
 % Double Gyre demo 
 %
